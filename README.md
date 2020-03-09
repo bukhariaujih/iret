@@ -10,7 +10,8 @@ The following were used for model **training** (see [requirements.txt](requireme
 - Python:  version 3.6
 
 TODO:
-- Use [Jinja](https://palletsprojects.com/p/jinja/)
+- [Jinja](https://palletsprojects.com/p/jinja/)
+- [Bootstrap](https://getbootstrap.com/)
 
 A SqueezeNet pretrained on the ImageNet dataset was used to train the classifier.
 
