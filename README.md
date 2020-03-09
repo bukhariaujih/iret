@@ -9,7 +9,7 @@ The following were used for model **training** (see [requirements.txt](requireme
 - PyTorch:  version  1.0.0
 - Python:  version 3.6
 
-TODO:
+## TODO:
 - [Jinja](https://palletsprojects.com/p/jinja/)
 - [Bootstrap](https://getbootstrap.com/)
 
