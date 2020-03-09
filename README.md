@@ -9,6 +9,9 @@ The following were used for model **training** (see [requirements.txt](requireme
 - PyTorch:  version  1.0.0
 - Python:  version 3.6
 
+TODO:
+- Use Jinja (https://palletsprojects.com/p/jinja/)
+
 A SqueezeNet pretrained on the ImageNet dataset was used to train the classifier.
 
 Training was done with [Kaggle Kernels](https://kaggle.com/kernels). Training history is provided in [history.csv](notebooks/history.csv)
