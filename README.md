@@ -12,6 +12,7 @@ The following were used for model **training** (see [requirements.txt](requireme
 ## TODO:
 - [Jinja](https://palletsprojects.com/p/jinja/)
 - [Bootstrap](https://getbootstrap.com/)
+- Pre-process image
 
 A SqueezeNet pretrained on the ImageNet dataset was used to train the classifier.
 
