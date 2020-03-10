@@ -2,6 +2,9 @@
 
 ## Available at https://retinopathy-classifier.herokuapp.com
 
+## PROBLEM
+Compiled slug size: 871.2M is too large (max is 500M)
+
 ## Details
 
 The following were used for model **training** (see [requirements.txt](requirements.txt)):    
