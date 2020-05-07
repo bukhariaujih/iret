@@ -4,7 +4,8 @@
 
 ## PROBLEM
 Compiled slug size: 871.2M is too large (max is 500M)
-Ref: https://devcenter.heroku.com/articles/reducing-the-slug-size-of-play-2-x-applications
+
+Don't use git. Ref: https://devcenter.heroku.com/articles/reducing-the-slug-size-of-play-2-x-applications
 
 ## Details
 
